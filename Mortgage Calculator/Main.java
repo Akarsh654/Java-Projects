@@ -1,4 +1,6 @@
-package com.akrash;
+package com.MortgageCalculator;
+
+// This is the implementation in procedural programming
 
 import java.text.NumberFormat;
 import java.util.Scanner;
